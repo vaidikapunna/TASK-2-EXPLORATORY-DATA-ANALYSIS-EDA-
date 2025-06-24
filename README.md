@@ -1,3 +1,4 @@
+
 # titanic - Exploratory Data Analysis (EDA)
 I'm Vaidika, and this is my submission for Task 2 of my AI/ML Internship. In this task, I performed Exploratory Data Analysis (EDA) on the famous Titanic dataset to discover patterns and insights about the passengers and their chances of survival.
 
@@ -8,7 +9,7 @@ This project includes the following files:
 
 ---
 
-## 📌 What I Did (Step by Step)
+##  What I Did (Step by Step)
 
 1. **Loaded the dataset** using `pandas`.
 2. **Cleaned the data**:
@@ -23,7 +24,7 @@ This project includes the following files:
 
 ---
 
-## 📊 What I Observed
+##  What I Observed
 
 - Most passengers who survived were **women** and **children**.
 - Passengers in **1st class** had a higher survival rate compared to those in 3rd class.
@@ -32,7 +33,7 @@ This project includes the following files:
 
 ---
 
-## 🛠 Tools & Libraries Used
+## Tools & Libraries Used
 
 - Python
 - Pandas
@@ -50,4 +51,5 @@ This project includes the following files:
 ```bash
 python titanic_eda.py
 
-
+# TASK-2-EXPLORATORY-DATA-ANALYSIS-EDA-
+de8a5ca57a36cbb6b7baaa07360aeb1e089fd62c
